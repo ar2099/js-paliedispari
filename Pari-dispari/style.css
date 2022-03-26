@@ -1,0 +1,17 @@
+#invia {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+}
+
+body {
+    margin: 40px;
+}
+
+* {
+    margin: 40px;
+}
+
+#numero-utente {
+    width: 200px;
+}
